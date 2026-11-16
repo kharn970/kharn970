@@ -1,6 +1,6 @@
 # Hi, I'm Edward 👋
 
-IT support and systems administration professional based in **Lubbock, TX**. I like keeping infrastructure documented, monitored, and boring in the best way.
+IT Technician based in **Lubbock, TX**. I like keeping infrastructure documented, monitored, and boring in the best way.
 
 ### What I work with
 - **Virtualization:** Proxmox VE (3-node cluster), Hyper-V, Proxmox Backup Server
