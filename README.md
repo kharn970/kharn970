@@ -3,7 +3,7 @@
 IT Technician (Tier 2 escalation) based in **Lubbock, TX**. I like keeping infrastructure documented, monitored, and boring in the best way.
 
 ### What I work with
-- **Virtualization:** Proxmox VE (3-node cluster), Hyper-V, Proxmox Backup Server
+- **Virtualization:** Proxmox VE (3-node cluster), Windows Hyper-V, Proxmox Backup Server
 - **Identity & endpoints:** Microsoft 365, Active Directory, Microsoft Entra ID, Intune
 - **Networking:** UniFi, VLAN segmentation, Tailscale
 - **Automation & monitoring:** n8n workflows (backup reports, uptime and disk alerts, inventory diffs), Bash, PowerShell
